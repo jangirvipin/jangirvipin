@@ -1,15 +1,15 @@
 # Hi, I'm Vipin! 👋
 
-<h2>🔭 I’m currently working on:</h2>
+<h4>🔭 I’m currently working on:</h4>
 <p>Next.js developer at a remote-based company.</p>
 
-<h2>👯 I’m looking to collaborate on:</h2>
+<h4>👯 I’m looking to collaborate on:</h4>
 <p>Golang or Full Stack Projects.</p>
 
-<h2>🌱 I’m currently learning:</h2>
+<h4>🌱 I’m currently learning:</h4>
 <p>Golang and Kubernetes.</p>
 
-<h2>💬 Ask me about:</h2>
+<h4>💬 Ask me about:</h4>
 <p>Backend and DevOps-related questions.</p>
  
 
