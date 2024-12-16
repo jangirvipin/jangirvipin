@@ -1,6 +1,6 @@
 # Hi, I'm Vipin! 👋
 
-<h4>🔭 I’m currently working on:</h4>
+<h4>🔭 I’m currently working as a:</h4>
 <p>Next.js developer at a remote-based company.</p>
 
 <h4>👯 I’m looking to collaborate on:</h4>
@@ -66,7 +66,7 @@
 ### 🌟 Projects
 
 ### Portfolio Website
-[Visit My Portfolio](https://myportfolio.com)  
+[Visit My Portfolio](https://portfolio-six-gray-26.vercel.app/)  
 Here is a preview of my portfolio:
 
 ![Portfolio Preview](https://raw.githubusercontent.com/jangirvipin/jangirvipin/refs/heads/main/Github%20.png)
