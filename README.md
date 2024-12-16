@@ -69,4 +69,4 @@
 [Visit My Portfolio](https://myportfolio.com)  
 Here is a preview of my portfolio:
 
-![Portfolio Preview](https://example.com/my-portfolio-preview.png)
+![Portfolio Preview](https://raw.githubusercontent.com/jangirvipin/jangirvipin/refs/heads/main/Github%20.png)
