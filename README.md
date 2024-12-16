@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vipin! 👋
 
-<!--
-**jangirvipin/jangirvipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills
+- **Languages**: JavaScript, Python, Rust, etc.
+- **Frameworks**: React, Next.js, Tailwind CSS
+- **Tools**: Docker, Git, Postman, etc.
 
-Here are some ideas to get you started:
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [GitHub](https://github.com/your-username)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Projects
+- [Project 1](https://github.com/your-username/project1)  
+- [Project 2](https://github.com/your-username/project2)
