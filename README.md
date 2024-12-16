@@ -1,5 +1,17 @@
 # Hi, I'm Vipin! 👋
 
+## 🔭 I’m currently working on:
+Next js developer at Remote based company .
+
+## 👯 I’m looking to collaborate on:
+Golang or Full stack Projects.
+
+## 🌱 I’m currently learning:
+Golang and Kubernetes
+
+## 💬 Ask me about:
+Backend and Devops related questions. 
+
 ### 🚀 Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
