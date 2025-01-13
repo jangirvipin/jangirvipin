@@ -1,7 +1,7 @@
 # Hi, I'm Vipin! 👋
 
 <h4>🔭 I’m currently working as a:</h4>
-<p>Next.js developer at a remote-based company.</p>
+<p>Next js and Devops engineer at a remote-based company.</p>
 
 <h4>👯 I’m looking to collaborate on:</h4>
 <p>Golang or Full Stack Projects.</p>
