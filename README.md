@@ -4,7 +4,7 @@
 <p>Next js and Devops engineer at a remote-based company.</p>
 
 <h4>👯 I’m looking to collaborate on:</h4>
-<p>Golang or Full Stack Projects.</p>
+<p>Golang or Devops tools projects.</p>
 
 <h4>🌱 I’m currently learning:</h4>
 <p>Golang and Kubernetes.</p>
