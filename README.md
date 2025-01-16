@@ -11,7 +11,9 @@
 
 <h4>💬 Ask me about:</h4>
 <p>Backend and DevOps-related questions.</p>
- 
+
+<h4>Contributing to </h4>
+<p>cncf Projects</p>
 
 ### 🚀 Languages
 
