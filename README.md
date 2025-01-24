@@ -1,5 +1,4 @@
 # Hi, I'm Vipin! 👋
-#Undergraduate CSE student.
 
 <h4>🔭 I’m currently working as a:</h4>
 <p>Next js and Devops engineer at a remote-based company.</p>
