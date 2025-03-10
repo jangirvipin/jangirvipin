@@ -4,7 +4,7 @@
 <p>Next js and Devops engineer at a remote-based company.</p>
 
 
-<p>Golang or Devops tools projects.</p>
+
 
 <h4>🌱 I’m currently learning:</h4>
 <p>Golang and Kubernetes.</p>
