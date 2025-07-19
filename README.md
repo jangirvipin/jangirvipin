@@ -14,6 +14,3 @@
   - **Github Action** – Github Action clone in golang.
   - **Secret Scanning Tool** – Secret Scanning Tool like github secret scanning alerts. 
 
----
-
- Feel free to reach out or explore my repos to see what I'm working on!
