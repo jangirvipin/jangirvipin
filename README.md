@@ -11,6 +11,6 @@
   - Actively exploring other **Golang-based** and **CNCF** projects .
 
 - **Projects I'm Building:**
-  - **Github Action** – Github Action clone in golang.
-  - **Secret Scanning Tool** – Secret Scanning Tool like github secret scanning alerts. 
+  - **CI Engine** – Minimal CI engine to run jobs in a containerized manner. Done [Codebase](https://github.com/jangirvipin/ci-engine)
+  - **Hot Reloading Engine** – A language-agnostic hot-reload engine that build the app with live changes. 
 
