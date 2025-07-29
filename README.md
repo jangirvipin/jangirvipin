@@ -11,6 +11,6 @@
   - Actively exploring other **Golang-based** and **CNCF** projects .
 
 - **Projects I'm Building:**
-  - **CI Engine** – Minimal CI engine to run jobs in a containerized manner. Done [Codebase](https://github.com/jangirvipin/ci-engine)
+  - **CI Engine** – Minimal CI engine to run jobs in a containerized manner.       Done [Codebase](https://github.com/jangirvipin/ci-engine)
   - **Hot Reloading Engine** – A language-agnostic hot-reload engine that build the app with live changes. 
 
